@@ -1,7 +1,10 @@
 # cordova-plugin-alipay
 cordova 支付宝插件,alipay
 
+支持IOS,ANDROID平台
+
 1.移除现有的插件（如果你已经安装了的话）
+
 cordova plugin remove cordova-plugin-alipay
 
 2.安装这个插件
